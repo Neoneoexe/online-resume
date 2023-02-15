@@ -107,7 +107,7 @@ experiences:
         At Warsaw School of Economics, I led a web development course, teaching students the basics of HTML, CSS, and JavaScript.
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     Here are some of my notable projects.
