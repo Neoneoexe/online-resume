@@ -111,38 +111,67 @@ projects:
   title: Projects
   intro: |
     Here are some of my notable projects.
+basic:
+  name: Albin Rushiti
+  title: Full Stack Software Engineer
+  avatar:
+    display: false
 
-  items:
-    - name: Project A
-      link: https://example.com/project-a
-      details: |
-        Project A is a web application that helps users manage their finances. I built it using React, Node.js, and PostgreSQL.
+contact:
+  location: Skopje, North Macedonia
+  email: albin.rushiti99@gmail.com
+  phone: +389 72 229 242
+  website: albi.dev
+  linkedin: albin-rushiti
+  github: neoneoexe
 
-    - name: Project B
-      link: https://example.com/project-b
-      details: |
-        Project B is a mobile application that allows users to track their workouts. I built it using React Native and Firebase.
-
-skills:
+profile:
   display: true
-  title: Skills
+  title: Profile
   details: |
-    Here are some of my technical skills:
-    + React
-    + Node.js
-    + Next.js
-    + MongoDB
-    + PostgreSQL
-    + Prisma
-    + React Native
-    + Firebase
-    + HTML/CSS
-    + Git
-    + IT support with Microsoft Office (admin panel)
+    I'm a Full Stack Software Engineer with a passion for building scalable and maintainable software that solves real-world problems. I have experience leading educational projects in Poland, representing Albania in Teknofest, and winning hackathons in Albanian. My expertise lies in building web and mobile applications using technologies such as React, Next.js, Node.js, Prisma, PostgreSQL, and MongoDB. Additionally, I have experience in IT support with Microsoft Office (admin panel).
 
-education:
-  display: false
+experiences:
+  display: true
+  title: Experiences
+  items:
+    - role: Full Stack Software Engineer
+      time: June 2022 - Present
+      company: GoLazy
+      tag: Food Delivery Startup
+      location: Remote
+      details: |
+        - Working as a contracted Developer and Project Manager
+        - Managing project using Asana with SCRUM methodology
+        - Utilizing microservices architecture and system design to build scalable and maintainable software
+    - role: Full Stack Software Engineer
+      time: 2019 - 2020
+      company: 100Devs
+      tag: Training Agency
+      location: California, LA
+      details: |
+        - Part of a team that built a full-stack web application using React, Node.js, and MongoDB
+        - Gained experience in working with a remote team, writing clean and maintainable code, and deploying applications to production
+        - Collaborated with team members to create and implement solutions for client needs
 
+    - role: Freelance Full Stack Software Engineer
+      time: 2020 - Present
+      company: Various Clients
+      tag: Remote
+      location: Kichevo
+      details: |
+         - Collaborating with clients to build web and mobile applications using technologies such as React, Node.js, and MongoDB
+         - Utilizing skills in Next.js, Postgres, and Prisma to build and maintain projects
+         - Gaining experience in remote work and time management
+    - role: Web Development Course Leader
+      time: 2018
+      company: Warsaw University of Technology
+      tag: Educational Project
+      location: Warsaw
+      details: |
+        - Led a web development course in Warsaw as part of an educational project
+        - Collaborated with students to create and implement web projects
+        - Gained experience in project management and team leadership
 certificates:
   display: true
   title: Certificates
@@ -152,12 +181,6 @@ certificates:
       time: 2021
       link: https://www.edx.org/course/cs50s-introduction-to-computer-science
 
-publications:
-  display: false
-
-patents:
-  display: false
-
 languages:
   display: true
   title: Languages
@@ -166,12 +189,32 @@ languages:
       level: Native
     - idiom: English
       level: Professional
+    - idiom: Macedonian
+      level: Basic
 
-interests:
-  display: false
+skills:
+  display: true
+  title: Skills
+  details: |
+    Here are some of my technical skills:
+    + React
+    + Next.js
+    + Node.js
+    + Prisma
+    + PostgreSQL
+    + MongoDB
+    + React Native
+    + Firebase
+    + HTML/CSS
+    + Git
+    + IT support with Microsoft Office (admin panel)
 
 evaluation:
   display: false
+
+footer:
+  display
+
 
 footer:
   display: true
