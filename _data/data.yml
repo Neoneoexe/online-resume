@@ -5,58 +5,6 @@ basic:
     display: false
 
 contact:
-  location: Kichevo, North Macedonia
-  email: albin.rushiti99@gmail.com
-  phone: +389 72 229 242
-  website: albi.dev
-  linkedin: albin-rushiti
-  github: albinr
-
-profile:
-  display: true
-  title: Profile
-  details: |
-    I'm a Full Stack Software Engineer with experience in leading projects, winning hackathons, and representing my country in international competitions. I have a passion for building scalable and maintainable software that solves real-world problems. 
-
-experiences:
-  display: true
-  title: Experiences
-  items:
-    - role: Full Stack Software Engineer
-      time: 2020 - present
-      company: Freelance
-      tag: Remote
-      location: Remote
-      details: |
-        As a freelance software engineer, I work with clients to build web and mobile applications using technologies such as React, Node.js, and MongoDB. 
-
-    - role: Full Stack Software Engineer
-      time: 2019 - 2020
-      company: 100Devs
-      tag: Training Agency
-      location: Remote
-      details: |
-        At 100Devs, I was part of a team that built a full-stack web application using React, Node.js, and MongoDB. I gained experience in working with a remote team, writing clean and maintainable code, and deploying applications to production.
-
-projects:
-  display: true
-  title: Projects
-  intro: |
-    Here are some of my notable projects.
-
-  items:
-    - name: Project A
-      link: https://example.com/project-a
-      details: |
-        Project A is a web application that helps users manage their finances. I built it using React, Node.js, and PostgreSQL.
-
-basic:
-  name: Albin Rushiti
-  title: Full Stack Software Engineer
-  avatar:
-    display: false
-
-contact:
   location: Skopje, North Macedonia
   email: albin.rushiti99@gmail.com
   phone: +389 72 229 242
@@ -83,7 +31,7 @@ experiences:
         At GoLazy, I work as a contracted Developer and Project Manager, leading a team of developers and managing projects using Asana with SCRUM. I work on microservices architecture and system design, and have experience with technologies such as Next.js, Prisma, and PostgreSQL.
 
     - role: Full Stack Software Engineer
-      time: 2019 - 2020
+      time: 2021 - 2022
       company: 100Devs
       tag: Training Agency
       location: California, LA
