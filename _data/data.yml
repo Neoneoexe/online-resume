@@ -16,67 +16,6 @@ profile:
   display: true
   title: Profile
   details: |
-    I'm a Full Stack Software Engineer with experience in leading projects, winning hackathons, and representing my country in international competitions. I have a passion for building scalable and maintainable software that solves real-world problems.
-
-experiences:
-  display: true
-  title: Experiences
-  items:
-    - role: Full Stack Software Engineer
-      time: June 2022 - present
-      company: GoLazy
-      tag: Food Delivery Startup
-      location: Remote
-      details: |
-        At GoLazy, I work as a contracted Developer and Project Manager, leading a team of developers and managing projects using Asana with SCRUM. I work on microservices architecture and system design, and have experience with technologies such as Next.js, Prisma, and PostgreSQL.
-
-    - role: Full Stack Software Engineer
-      time: 2021 - 2022
-      company: 100Devs
-      tag: Training Agency
-      location: California, LA
-      details: |
-        At 100Devs, I was part of a team that built a full-stack web application using React, Node.js, and MongoDB. I gained experience in working with a remote team, writing clean and maintainable code, and deploying applications to production.
-
-    - role: Freelance Full Stack Software Engineer
-      time: 2020 - present
-      company: Various Clients
-      tag: Remote
-      location: Kichevo
-      details: |
-        As a freelance software engineer, I work with clients to build web and mobile applications using technologies such as React, Node.js, and MongoDB. I have experience with microservices architecture and system design.
-
-    - role: Web Development Course Leader
-      time: 2018
-      company: Warsaw School of Economics
-      tag: Educational Institution
-      location: Warsaw, Poland
-      details: |
-        At Warsaw School of Economics, I led a web development course, teaching students the basics of HTML, CSS, and JavaScript.
-
-projects:
-  display: false
-  title: Projects
-  intro: |
-    Here are some of my notable projects.
-basic:
-  name: Albin Rushiti
-  title: Full Stack Software Engineer
-  avatar:
-    display: false
-
-contact:
-  location: Skopje, North Macedonia
-  email: albin.rushiti99@gmail.com
-  phone: +389 72 229 242
-  website: albi.dev
-  linkedin: albin-rushiti
-  github: neoneoexe
-
-profile:
-  display: true
-  title: Profile
-  details: |
     I'm a Full Stack Software Engineer with a passion for building scalable and maintainable software that solves real-world problems. I have experience leading educational projects in Poland, representing Albania in Teknofest, and winning hackathons in Albanian. My expertise lies in building web and mobile applications using technologies such as React, Next.js, Node.js, Prisma, PostgreSQL, and MongoDB. Additionally, I have experience in IT support with Microsoft Office (admin panel).
 
 experiences:
@@ -93,7 +32,7 @@ experiences:
         - Managing project using Asana with SCRUM methodology
         - Utilizing microservices architecture and system design to build scalable and maintainable software
     - role: Full Stack Software Engineer
-      time: 2019 - 2020
+      time: 2021 - 2022
       company: 100Devs
       tag: Training Agency
       location: California, LA
@@ -106,7 +45,7 @@ experiences:
       time: 2020 - Present
       company: Various Clients
       tag: Remote
-      location: Kichevo
+      location: remote
       details: |
          - Collaborating with clients to build web and mobile applications using technologies such as React, Node.js, and MongoDB
          - Utilizing skills in Next.js, Postgres, and Prisma to build and maintain projects
