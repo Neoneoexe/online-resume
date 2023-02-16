@@ -28,9 +28,12 @@ experiences:
       tag: Food Delivery Startup
       location: Remote
       details: |
-        - Working as a contracted Developer and Project Manager
-        - Managing project using Asana with SCRUM methodology
-        - Utilizing microservices architecture and system design to build scalable and maintainable software
+        - Managed the entire project using Asana with the SCRUM methodology, resulting in a more organized and efficient workflow.
+        - Utilized microservices architecture and system design to build scalable and maintainable software, improving the company's technological infrastructure.
+        - Collaborated with a remote team to develop and implement new features for the platform, resulting in an increase in user engagement and retention.
+        - Built a real-time tracking system using React Native and Firebase.
+        - Successfully deployed new features to production using technologies such as React, Next.js, Node.js, Prisma, PostgreSQL, and MongoDB, ensuring a seamless and enjoyable experience for users.
+        - Improved the company's IT support system by providing admin panel support with Microsoft Office, ensuring smooth day-to-day operations.
     - role: Full Stack Software Engineer
       time: 2021 - 2022
       company: 100Devs
